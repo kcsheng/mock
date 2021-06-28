@@ -1,1 +1,2 @@
-This is a mock project.
+This is a mock project.<br>
+This is another line of text.
